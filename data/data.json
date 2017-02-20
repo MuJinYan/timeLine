@@ -25,7 +25,7 @@
       "blockquote" : false,
       "author" : false,
       "img" : true,
-      "imgUrl" : "images/time-1.jpg",
+      "imgUrl" : "./images/time-1.jpg",
       "video" :false
     },
     {
@@ -35,7 +35,7 @@
       "blockquote" : false,
       "author" : false,
       "img" : true,
-      "imgUrl" : "images/time-2.jpg",
+      "imgUrl" : "./images/time-2.jpg",
       "video" :false
     },
     {
@@ -55,7 +55,7 @@
       "blockquote" : false,
       "author" : false,
       "img" : true,
-      "imgUrl" : "images/time-4.jpg",
+      "imgUrl" : "./images/time-4.jpg",
       "video" :false
     },{
       "title" : "不要用你关于发言的感受和想法去打断别人",
@@ -91,7 +91,7 @@
       "blockquote" : false,
       "author" : false,
       "img" : true,
-      "imgUrl" : "images/time-5.jpg",
+      "imgUrl" : "./images/time-5.jpg",
       "video" :false
     },{
       "title" : "努力消除发言者的疑虑，让他相信发言一切都很好",
@@ -100,7 +100,7 @@
       "blockquote" : false,
       "author" : false,
       "img" : true,
-      "imgUrl" : "images/time-6.jpg",
+      "imgUrl" : "./images/time-6.jpg",
       "video" :false
     }
   ]

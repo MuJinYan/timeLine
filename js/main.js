@@ -40,7 +40,7 @@
                                 "<div class='panel timeline-content'>"+
                                 "<div class='panel-body'>"+
                                 "<h2>"+_data[index].title+"</h2>"+
-                                "<img class='img-responsive' src="+_data[index].imgUrl+"/>"+
+                                "<img class='img-responsive' src="+_data[index].imgUrl+" />"+
                                 "<p>"+_data[index].content+"</p>"+
                                 "</div>"+
                                 "</div>"+
@@ -84,5 +84,5 @@
             return $(window).scroll(function() {
                 return timelineAnimate();
             });
-        }
+        };
 })(jQuery);
